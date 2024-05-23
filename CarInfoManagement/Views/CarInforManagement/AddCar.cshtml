@@ -1,0 +1,119 @@
+﻿@model CarInfoManagement.Models.CarViewModel
+@{
+   
+}
+<form class="w-40" asp-action="AddCar" method="post" enctype="multipart/form-data">
+    <h2 class="pb-10">Add Car</h2> 
+
+    <div class="input-container">
+        <label asp-for="carName" class="w-40">carName</label>
+        <input type="text" class="input" asp-for="carName">
+    </div>
+    <div class="message-box pd-x-28 error">
+        <span asp-validation-for="carName"></span>
+    </div>
+
+    <div class="input-container">
+        <label asp-for="carImage" class="w-40">carImage</label>
+        <input type="file" asp-for="ImageFile">
+    </div>
+    <div class="message-box pd-x-28 error">
+        <span asp-validation-for="ImageFile"> </span>
+    </div>
+    <div class="input-container">
+        <label asp-for="carModel" class="w-40">Car Model</label>
+        <input type="text" class="input" asp-for="carModel">
+    </div>
+    <div class="message-box pd-x-28 error">
+        <span asp-validation-for="carModel"> </span>
+    </div>
+    <div class="input-container">
+        <label asp-for="manifactureId" class="w-40">Manufacturer</label>
+        <select asp-for="manifactureId" asp-items="ViewBag.Manufacturer"></select>
+    </div>
+    <div class="message-box pd-x-28 error">
+        <span asp-validation-for="manifactureId"> </span>
+    </div>
+    <div class="input-container">
+        <label asp-for="typeId" class="w-40">Car Type</label>
+        <select asp-for="typeId" asp-items="ViewBag.CarType"></select>
+    </div>
+    <div class="message-box pd-x-28 error">
+        <span asp-validation-for="typeId"> </span>
+    </div>
+
+    <div class="input-container">
+        <label asp-for="engine" class="w-40">engine</label>
+        <input type="text" class="input" asp-for="engine">
+    </div>
+    <div class="message-box pd-x-28 error">
+        <span asp-validation-for="engine"> </span>
+    </div>
+
+    <div class="input-container">
+        <label asp-for="BHP" class="w-40">BHP</label>
+        <input type="number" class="input" asp-for="BHP">
+    </div>
+    <div class="message-box pd-x-28 error">
+        <span asp-validation-for="BHP"> </span>
+    </div>
+
+    <div class="message-box pd-x-28 error">
+        <span asp-validation-for="BHP"> </span>
+    </div>
+    <div class="input-container">
+        <label asp-for="CarTransmissionTypeName" class="w-40">CarTranmission</label>
+        <select asp-for="carTransmissionId" asp-items="ViewBag.CarTransmission"></select>
+    </div>
+    <div class="message-box pd-x-28 error">
+        <span asp-validation-for="CarTransmissionTypeName"> </span>
+    </div>
+
+    <div class="input-container">
+        <label asp-for="mileage" class="w-40">mileage</label>
+        <input type="number" TextMode="Number" class="input" asp-for="mileage">
+    </div>
+    <div class="message-box pd-x-28 error">
+        <span asp-validation-for="mileage"> </span>
+    </div>
+    <div class="input-container">
+        <label asp-for="seat" class="w-40">Seat</label>
+        <input type="number" TextMode="Number" class="input" asp-for="seat">
+    </div>
+    <div class="message-box pd-x-28 error">
+        <span asp-validation-for="seat"> </span>
+    </div>
+    <div class="input-container">
+        <label asp-for="airBagDetails" class="w-40">airBagDetails</label>
+        <input type="text" class="input" asp-for="airBagDetails">
+    </div>
+    <div class="message-box pd-x-28 error">
+        <span asp-validation-for="airBagDetails"> </span>
+    </div>
+
+    <div class="input-container">
+        <label asp-for="bootspace" class="w-40">bootspace</label>
+        <input type="text" class="input" asp-for="bootspace">
+    </div>
+    <div class="message-box pd-x-28 error">
+        <span asp-validation-for="bootspace"> </span>
+    </div>
+    <div class="input-container">
+        <label asp-for="price" class="w-40">price</label>
+        <input type="number" class="input" asp-for="price">
+    </div>
+    <div class="message-box pd-x-28 error">
+        <span asp-validation-for="price"> </span>
+    </div>
+    @if (TempData["msg"] != null)
+    {
+        <div class="alert mb-1">
+            @TempData["msg"]
+        </div>
+    }
+
+    <div class="input-container">
+        <button class="btn btn-default" type="submit">Save</button>
+    </div>
+
+    </form>

@@ -1,0 +1,45 @@
+﻿@model IEnumerable<CarInfoManagement.Models.CarViewModel>
+@{
+    Layout = "_Layout";
+}
+<section class="search-bar">
+    <form method="get" asp-action="Index">
+        <input type="text" name="term" placeholder="search here">
+        <button type="submit"><i class="fa fa-search"></i></button>
+        <a class="btn btn-default" href="/Home/Index">All</a>
+    </form>
+</section>
+<section class="cars">
+    @if (Model != null)
+    {
+        @foreach (var car in Model)
+        {
+            <div class="car-card">
+                <div class="car-image">
+                    <img style="height:200px;width:100px" src="/Uploads/@car.carImage">
+                </div>
+                <div class="car-info">
+                    <h4>@car.carName</h4>
+                    <a class="btn btn-default" onclick="window.location.href='/Home/CarDetail?carId=@car.Id'">Features</a>
+                </div>
+            </div>
+        }
+    }
+
+</section>
+
+@* <div class="pagination">
+    @for (int i = 1; i <= Model.TotalPages; i++)
+    {
+        if (i == Model.CurrentPage)
+        {
+            <a href="/Home/Index?currentPage=@i&term=@Model.Term" class="active">@i</a>
+        }
+        else
+        {
+            <a href="/Home/Index?currentPage=@i&term=@Model.Term">@i</a>
+
+        }
+    }
+
+</div> *@

@@ -1,0 +1,381 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CarInfoManagement.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CarInfoManagement.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\Uploads\\0787daba-0d93-4aad-97c0-cdb22c6e194d.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\0787daba-0d93-4aad-97c0-cdb22c6e194d.jpg"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\Uploads\\170e1811-fb57-4638-99d7-f1bab7e7b2ed.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\170e1811-fb57-4638-99d7-f1bab7e7b2ed.jpg"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\Uploads\\1d04c77e-af1c-4656-878f-1945cef35b41.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\1d04c77e-af1c-4656-878f-1945cef35b41.jpg"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\Uploads\\1e087600-7619-4855-af40-ffb4c1cb735e.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\1e087600-7619-4855-af40-ffb4c1cb735e.jpg"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\Uploads\\3135c913-1058-4e9e-a8f8-f267da2df304.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\3135c913-1058-4e9e-a8f8-f267da2df304.jpg"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\Uploads\\3232a491-f6b5-4495-b5af-dbfa00de8862.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\3232a491-f6b5-4495-b5af-dbfa00de8862.jpg"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\Uploads\\40fde1e9-6ae0-4cd6-ace7-0df078fa9297.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\40fde1e9-6ae0-4cd6-ace7-0df078fa9297.jpg"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\Uploads\\425c51e2-088c-4531-8812-30edf2dd7e59.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\425c51e2-088c-4531-8812-30edf2dd7e59.jpg"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\Uploads\\42c9aeb9-eb0d-493e-8fea-40f7265bc1e2.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\42c9aeb9-eb0d-493e-8fea-40f7265bc1e2.jpg"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\Uploads\\4329c661-d4e0-4b9b-a518-8d15c064a3fd.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\4329c661-d4e0-4b9b-a518-8d15c064a3fd.jpg"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\Uploads\\462ac8f9-7589-4224-a51e-274313b825af.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\462ac8f9-7589-4224-a51e-274313b825af.jpg"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\Uploads\\6b5bb051-a6f8-4cf8-911a-c5e2952238d4.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\6b5bb051-a6f8-4cf8-911a-c5e2952238d4.jpg"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\Uploads\\72399e92-c3ae-4606-94f5-9ca3a2f47f06.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\72399e92-c3ae-4606-94f5-9ca3a2f47f06.jpg"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\Uploads\\8aed0d6d-182e-440a-87f1-922be9050f11.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\8aed0d6d-182e-440a-87f1-922be9050f11.jpg"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\Uploads\\8d39a3f8-f8c7-47e4-9db3-21876ef42dcd.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\8d39a3f8-f8c7-47e4-9db3-21876ef42dcd.jpg"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\Uploads\\90fe0121-14b3-4708-b2f7-ed46f0e5bd25.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\90fe0121-14b3-4708-b2f7-ed46f0e5bd25.jpg"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\Uploads\\9ef7d256-0cdf-4b40-a785-43df08c9e55d.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\9ef7d256-0cdf-4b40-a785-43df08c9e55d.jpg"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\Uploads\\a184b585-b97d-4c0d-9f84-55fcd8d52d74.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\a184b585-b97d-4c0d-9f84-55fcd8d52d74.jpg"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\Uploads\\a539c29b-db3c-4de6-a071-ce460457cf81.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\a539c29b-db3c-4de6-a071-ce460457cf81.jpg"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\Uploads\\acb9ea26-a8f5-44c6-a900-cb6016cf086f.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\acb9ea26-a8f5-44c6-a900-cb6016cf086f.jpg"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\Uploads\\d022e51c-e7be-4b18-a8b0-79c08d60fed2.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\d022e51c-e7be-4b18-a8b0-79c08d60fed2.jpg"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\Uploads\\dc849af9-093f-4d8b-a911-0eb44da5f917.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\dc849af9-093f-4d8b-a911-0eb44da5f917.jpg"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\Uploads\\deb5e390-ec00-4ca3-8ff7-e4b07e3290c4.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\deb5e390-ec00-4ca3-8ff7-e4b07e3290c4.jpg"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\Uploads\\e23b2c51-1f57-4126-b0f5-d8baa7626a07.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\e23b2c51-1f57-4126-b0f5-d8baa7626a07.jpg"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\css\\forms.css",
+      "PackagePath": "staticwebassets\\css\\forms.css"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CarInfoManagement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CarInfoManagement.props",
+      "PackagePath": "build\\CarInfoManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CarInfoManagement.props",
+      "PackagePath": "buildMultiTargeting\\CarInfoManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CarInfoManagement.props",
+      "PackagePath": "buildTransitive\\CarInfoManagement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

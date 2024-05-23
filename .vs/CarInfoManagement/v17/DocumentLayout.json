@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|e:\\rehan\\project\\repo\\carinfomanagement\\carinfomanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|solutionrelative:carinfomanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|e:\\rehan\\project\\repo\\carinfomanagement\\carinfomanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|solutionrelative:carinfomanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|e:\\rehan\\project\\repo\\carinfomanagement\\carinfomanagement\\views\\carinformanagement\\addcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|solutionrelative:carinfomanagement\\views\\carinformanagement\\addcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|e:\\rehan\\project\\repo\\carinfomanagement\\carinfomanagement\\identity\\identityservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|solutionrelative:carinfomanagement\\identity\\identityservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|e:\\rehan\\project\\repo\\carinfomanagement\\carinfomanagement\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|solutionrelative:carinfomanagement\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|e:\\rehan\\project\\repo\\carinfomanagement\\carinfomanagement\\services\\carinfodetails\\carinfordetailsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|solutionrelative:carinfomanagement\\services\\carinfodetails\\carinfordetailsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|e:\\rehan\\project\\repo\\carinfomanagement\\carinfomanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|solutionrelative:carinfomanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|e:\\rehan\\project\\repo\\carinfomanagement\\carinfomanagement\\controllers\\userauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|solutionrelative:carinfomanagement\\controllers\\userauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|e:\\rehan\\project\\repo\\carinfomanagement\\carinfomanagement\\controllers\\carinformanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|solutionrelative:carinfomanagement\\controllers\\carinformanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|e:\\rehan\\project\\repo\\carinfomanagement\\carinfomanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|solutionrelative:carinfomanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|e:\\rehan\\project\\repo\\carinfomanagement\\carinfomanagement\\models\\carviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|solutionrelative:carinfomanagement\\models\\carviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|e:\\rehan\\project\\repo\\carinfomanagement\\carinfomanagement\\models\\mappingmodel\\mappingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|solutionrelative:carinfomanagement\\models\\mappingmodel\\mappingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|e:\\rehan\\project\\repo\\carinfomanagement\\carinfomanagement\\models\\cardetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|solutionrelative:carinfomanagement\\models\\cardetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|e:\\rehan\\project\\repo\\carinfomanagement\\carinfomanagement\\views\\carinformanagement\\editcardetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|solutionrelative:carinfomanagement\\views\\carinformanagement\\editcardetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|e:\\rehan\\project\\repo\\carinfomanagement\\carinfomanagement\\views\\home\\cardetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5A91BF0-8F73-4706-B97F-A8A2ABE16244}|CarInfoManagement\\CarInfoManagement.csproj|solutionrelative:carinfomanagement\\views\\home\\cardetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CarInfoManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CarInfoManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAjwBAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T06:43:04.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "CarInfoManagement\\appsettings.json",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\appsettings.json",
+              "RelativeToolTip": "CarInfoManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T06:16:52.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserAuthenticationController.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Controllers\\UserAuthenticationController.cs",
+              "RelativeDocumentMoniker": "CarInfoManagement\\Controllers\\UserAuthenticationController.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Controllers\\UserAuthenticationController.cs",
+              "RelativeToolTip": "CarInfoManagement\\Controllers\\UserAuthenticationController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:57:06.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IdentityServices.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Identity\\IdentityServices.cs",
+              "RelativeDocumentMoniker": "CarInfoManagement\\Identity\\IdentityServices.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Identity\\IdentityServices.cs",
+              "RelativeToolTip": "CarInfoManagement\\Identity\\IdentityServices.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:57:06.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "CarInfoManagement\\Services\\BaseService.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Services\\BaseService.cs",
+              "RelativeToolTip": "CarInfoManagement\\Services\\BaseService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:57:06.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarInforDetailsServices.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Services\\CarInfoDetails\\CarInforDetailsServices.cs",
+              "RelativeDocumentMoniker": "CarInfoManagement\\Services\\CarInfoDetails\\CarInforDetailsServices.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Services\\CarInfoDetails\\CarInforDetailsServices.cs",
+              "RelativeToolTip": "CarInfoManagement\\Services\\CarInfoDetails\\CarInforDetailsServices.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAGAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:52:30.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarInforManagementController.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Controllers\\CarInforManagementController.cs",
+              "RelativeDocumentMoniker": "CarInfoManagement\\Controllers\\CarInforManagementController.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Controllers\\CarInforManagementController.cs",
+              "RelativeToolTip": "CarInfoManagement\\Controllers\\CarInforManagementController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAHIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:52:30.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddCar.cshtml",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Views\\CarInforManagement\\AddCar.cshtml",
+              "RelativeDocumentMoniker": "CarInfoManagement\\Views\\CarInforManagement\\AddCar.cshtml",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Views\\CarInforManagement\\AddCar.cshtml",
+              "RelativeToolTip": "CarInfoManagement\\Views\\CarInforManagement\\AddCar.cshtml",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAjwHQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T15:50:31.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarInfoManagement\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CarInfoManagement\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAMwBQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T16:22:34.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MappingData.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Models\\MappingModel\\MappingData.cs",
+              "RelativeDocumentMoniker": "CarInfoManagement\\Models\\MappingModel\\MappingData.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Models\\MappingModel\\MappingData.cs",
+              "RelativeToolTip": "CarInfoManagement\\Models\\MappingModel\\MappingData.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:49:13.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CarInfoManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CarInfoManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:52:30.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditCarDetails.cshtml",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Views\\CarInforManagement\\EditCarDetails.cshtml",
+              "RelativeDocumentMoniker": "CarInfoManagement\\Views\\CarInforManagement\\EditCarDetails.cshtml",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Views\\CarInforManagement\\EditCarDetails.cshtml",
+              "RelativeToolTip": "CarInfoManagement\\Views\\CarInforManagement\\EditCarDetails.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAAAjwEYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T15:50:45.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CarDetail.cshtml",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Views\\Home\\CarDetail.cshtml",
+              "RelativeDocumentMoniker": "CarInfoManagement\\Views\\Home\\CarDetail.cshtml",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Views\\Home\\CarDetail.cshtml",
+              "RelativeToolTip": "CarInfoManagement\\Views\\Home\\CarDetail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T15:50:56.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarDetails.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Models\\CarDetails.cs",
+              "RelativeDocumentMoniker": "CarInfoManagement\\Models\\CarDetails.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Models\\CarDetails.cs",
+              "RelativeToolTip": "CarInfoManagement\\Models\\CarDetails.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:48:55.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarViewModel.cs",
+              "DocumentMoniker": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Models\\CarViewModel.cs",
+              "RelativeDocumentMoniker": "CarInfoManagement\\Models\\CarViewModel.cs",
+              "ToolTip": "E:\\Rehan\\Project\\repo\\CarInfoManagement\\CarInfoManagement\\Models\\CarViewModel.cs",
+              "RelativeToolTip": "CarInfoManagement\\Models\\CarViewModel.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:48:38.195Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

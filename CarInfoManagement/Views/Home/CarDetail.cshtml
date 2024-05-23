@@ -1,0 +1,23 @@
+﻿@model CarInfoManagement.Models.CarViewModel
+@{
+
+}
+<div class="car-detail w-80 m-auto">
+    <div class="img-container">
+        <img alt="image" style="height:200px;width:150px" src="/Uploads/@Model.carImage">
+    </div>
+    <div class="detail-container">
+        <h4>Car Name</h4><span>@Model.carName</span>
+        <h4>Manufacturer</h4><span>@Model.manufacturerName</span>
+        <h4>Model</h4><span>@Model.carModel</span>
+        <h4>Engine</h4><span>@Model.engine</span>
+        <h4>BHP</h4><span>@Model.BHP</span>
+        <h4>Mileage</h4><span>@Model.mileage</span>
+        <h4>AirBag</h4><span>@Model.airBagDetails</span>
+        <h4>Bootspace</h4><span>@Model.bootspace</span>
+        <h4>Price</h4><span>@Model.price</span>
+        </div>
+</div>
+<div class="w-80 m-auto">
+    <a href="/Home/Index" class="btn btn-default">Back</a>
+</div>

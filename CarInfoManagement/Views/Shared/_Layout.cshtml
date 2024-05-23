@@ -1,0 +1,69 @@
+﻿@{
+    string role = Convert.ToString(TempData["Role"]);
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Details</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/forms.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="nav-bar">
+        <div class="logo">
+            Cars Management
+        </div>
+        <ul class="nav-link">
+            
+            @if (!string.IsNullOrEmpty(role) && role == "Admin")
+            {
+                <li><a class="active" href="/Home/Index">Home</a></li>
+                <li>
+                    <a href="#">Admin <i class="fa fa-caret-down"></i></a>
+                    <ul class="dropdown-nav-link">
+                        <li><a href="/CarInforManagement/AddCar">Add Car</a></li>
+                        <li><a href="/CarInforManagement/CarList">Car List</a></li>
+                        <li><a href="/UserAuthentication/Logout">Logout</a></li>
+                    </ul>
+                </li>
+            }
+            @if (!string.IsNullOrEmpty(role) && role == "User")
+            {
+                <li><a class="active" href="/Home/Index">Home</a></li>
+                <li>
+                    <a href="#">User <i class="fa fa-caret-down"></i></a>
+
+                    <ul class="dropdown-nav-link">
+                        <li><a href="/UserAuthentication/Logout">Logout</a></li>
+                    </ul>
+                </li>
+            }
+
+            @* @if (string.IsNullOrEmpty(role))
+            {
+                <li><a href="/UserAuthentication/Login">Login</a></li>
+            } *@
+        </ul>
+    </nav>
+    <div class="container">
+        @RenderBody()
+    </div>
+    <footer>
+        &#169; @DateTime.UtcNow.Year Rehan Hashmi
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

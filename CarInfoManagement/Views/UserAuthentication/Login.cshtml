@@ -1,0 +1,43 @@
+﻿@model CarInfoManagement.Models.AuthendicationModel.LoginModel
+@{
+}
+
+<form class="w-40" asp-action="Login" method="post">
+    <h2 class="pb-10">Login</h2>
+    <div class="input-container">
+        <label asp-for="userName" class="w-40">User Name</label>
+        <input type="text" class="input" asp-for="userName">
+    </div>
+    <div class="message-box pd-x-28 error">
+        <span asp-validation-for="userName"></span>
+    </div>
+
+
+    <div class="input-container">
+        <label asp-for="password" class="w-40">Password</label>
+        <input type="password" class="input" asp-for="password">
+    </div>
+    <div class="message-box pd-x-28 error">
+        <span asp-validation-for="password"></span>
+    </div>
+    <div class="input-container">
+        <label asp-for="role" class="w-40">Role</label>
+        <select asp-for="role" asp-items="ViewBag.role"></select>
+    </div>
+    <div class="message-box pd-x-28 error">
+        <span asp-validation-for="role"> </span>
+    </div>
+
+
+    @if (TempData["msg"] != null)
+    {
+            <div class="alert mb-1">
+            @TempData["msg"]
+        </div>
+    }
+
+    <div class="input-container">
+        <button class="btn btn-default" type="submit">Login</button> <button class="btn btn-sec" type="button" onclick="location.href='@Url.Action("Register", "UserAuthentication")'">Sign Up</button>
+    </div>
+</form>
+<div></div>

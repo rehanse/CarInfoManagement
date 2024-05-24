@@ -15,20 +15,31 @@
             <th>Transmission</th>
             <th>Action</th>
         </tr>
-        @foreach(var item in Model){
-        <tr>
-                <td>@item.carName</td>
-                <td>@item.manufacturerName</td>
-                <td><img style="height:60px;width:80px" src="/Uploads/@item.carImage" /></td>
-                <td>@item.engine</td>
-                <td>@item.type</td>
-                <td>@item.CarTransmissionTypeName</td>
-                <td>
-                    <a href="/CarInforManagement/EditCarDetails?id=@item.Id" class="btn btn-default"><i class="fa fa-edit"></i></a>
-                    <a onclick="return window.confirm('Are you sure?')" href="/CarInforManagement/Delete?id=@item.Id" class="btn btn-danger"><i class="fa fa-trash"></i></a>
-            </td>
-        </tr>
+        @if (Model != null && Model.Count() > 0)
+        {
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.carName</td>
+                    <td>@item.manufacturerName</td>
+                    <td><img style="height:60px;width:80px" src="/Uploads/@item.carImage" /></td>
+                    <td>@item.engine</td>
+                    <td>@item.type</td>
+                    <td>@item.CarTransmissionTypeName</td>
+                    <td>
+                        <a href="/CarInforManagement/EditCarDetails?id=@item.Id" class="btn btn-default"><i class="fa fa-edit"></i></a>
+                        <a onclick="return window.confirm('Are you sure?')" href="/CarInforManagement/Delete?id=@item.Id" class="btn btn-danger"><i class="fa fa-trash"></i></a>
+                    </td>
+                </tr>
+            }
         }
+        else
+        {
+            <tr>
+                <td colspan="6">Cars are on the way.....</td>
+            </tr>
+        }
+
      
     </table>
     <div class="input-container">

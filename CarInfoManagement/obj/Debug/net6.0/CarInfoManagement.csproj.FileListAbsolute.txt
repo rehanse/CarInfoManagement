@@ -525,3 +525,4 @@ E:\Rehan\Project\repo\CarInfoManagement\CarInfoManagement\bin\Debug\net6.0\Micro
 E:\Rehan\Project\repo\CarInfoManagement\CarInfoManagement\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 E:\Rehan\Project\repo\CarInfoManagement\CarInfoManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
 E:\Rehan\Project\repo\CarInfoManagement\CarInfoManagement\obj\Debug\net6.0\CarInfoManagement.MvcApplicationPartsAssemblyInfo.cs
+E:\Rehan\Project\repo\CarInfoManagement\CarInfoManagement\obj\Debug\net6.0\CarInfoManagement.sourcelink.json

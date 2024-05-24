@@ -10,7 +10,7 @@
     </form>
 </section>
 <section class="cars">
-    @if (Model != null)
+    @if (Model != null && Model.Count() > 0)
     {
         @foreach (var car in Model)
         {
@@ -24,6 +24,12 @@
                 </div>
             </div>
         }
+    }
+    else
+    {
+        <div>
+            <h4>coming soon .....</h4>
+        </div>
     }
 
 </section>

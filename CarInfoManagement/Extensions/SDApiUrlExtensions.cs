@@ -4,6 +4,7 @@ namespace CarInfoManagement.Extensions
 {
     public static class SDApiUrlExtensions
     {
+        //Get static value for API end points from the Appsettings.json file
         public static void AddSDApiUri(this WebApplicationBuilder builer)
         {
             SD.CarDetailsAPIBase = builer.Configuration["ApiUrls:CarInfoDetailsApiEndPoint"];

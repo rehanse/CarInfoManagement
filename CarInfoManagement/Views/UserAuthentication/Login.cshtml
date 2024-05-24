@@ -20,13 +20,7 @@
     <div class="message-box pd-x-28 error">
         <span asp-validation-for="password"></span>
     </div>
-    <div class="input-container">
-        <label asp-for="role" class="w-40">Role</label>
-        <select asp-for="role" asp-items="ViewBag.role"></select>
-    </div>
-    <div class="message-box pd-x-28 error">
-        <span asp-validation-for="role"> </span>
-    </div>
+   
 
 
     @if (TempData["msg"] != null)

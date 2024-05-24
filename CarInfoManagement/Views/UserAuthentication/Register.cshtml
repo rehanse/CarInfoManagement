@@ -31,18 +31,18 @@
 
     <div class="input-container">
         <label asp-for="Password" class="w-40">Password</label>
-        <input type="text" class="input" asp-for="Password">
+        <input type="password" class="input" asp-for="Password">
     </div>
     <div class="message-box pd-x-28 error">
         <span asp-validation-for="Password"></span>
     </div>
 
     <div class="input-container">
-        <label asp-for="Role" class="w-40">Role</label>
-        <input type="Role" class="input" asp-for="Role">
+    <label asp-for="Role" class="w-40">Role</label>
+        <select asp-for="Role" asp-items="ViewBag.role"></select>
     </div>
     <div class="message-box pd-x-28 error">
-        <span asp-validation-for="Role"></span>
+        <span asp-validation-for="Role"> </span>
     </div>
 
 

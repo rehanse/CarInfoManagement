@@ -15,6 +15,13 @@ namespace CarInfoManagement.Controllers
         [HttpGet]
         public async Task<IActionResult> Register()
         {
+            List<SelectListItem> option = new List<SelectListItem>();
+            option = new List<SelectListItem>
+            {
+                new SelectListItem{Value="Admin",Text = "Admin"},
+                new SelectListItem {Value = "User", Text = "User"}
+            };
+            ViewBag.role = option;
             return View();
         }
         [HttpPost]
@@ -34,13 +41,7 @@ namespace CarInfoManagement.Controllers
         [HttpGet]
         public async Task<IActionResult> Login()
         {
-            List<SelectListItem> option = new List<SelectListItem>();
-            option = new List<SelectListItem>
-            {
-                new SelectListItem{Value="Admin",Text = "Admin"},
-                new SelectListItem {Value = "User", Text = "User"}
-            };
-            ViewBag.role = option;
+            
             return View();
         }
 
@@ -53,7 +54,7 @@ namespace CarInfoManagement.Controllers
             var result = await authService.LoginAsync(model);
             
            
-            if (result.statusCode == 1)
+            if (result !=null && result.statusCode == 1)
             {
                 HttpContext.Session.SetString("Role", result.role);
                 HttpContext.Session.SetString("AccessToken", result.token);
@@ -62,7 +63,7 @@ namespace CarInfoManagement.Controllers
             }
             else
             {
-                TempData["msg"] = "Could not logged in..";
+                TempData["msg"] = "Could not logged in. Please check User Name or Password";
                 return RedirectToAction(nameof(Login));
             }
         }

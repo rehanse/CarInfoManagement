@@ -8,7 +8,7 @@ using Newtonsoft.Json;
 
 namespace CarInfoBFF.Identity
 {
-    public class IdentityServices:IIdentityService
+    public class IdentityServices : IIdentityService
     {
         private readonly IBaseService _baseService;
 
@@ -19,14 +19,7 @@ namespace CarInfoBFF.Identity
         public async Task<Status> LoginAsync(LoginModel model)
         {
             string url = string.Empty;
-            if(model.role == UsersRole.Admin)
-            {
-                url = $"{SD.CarDetailsAPIBase}/UserAuthentication/LogIn";
-            }
-            else
-            {
-               url = $"{SD.CarDetailsUserAPIBase}/UserAuthentication/UserLogIn";
-            }
+            url = $"{SD.CarDetailsAPIBase}/UserAuthentication/LogIn";
             var requestDTO = new RequestDTO
             {
                 ApiType = SD.ApiType.POST,
@@ -54,14 +47,7 @@ namespace CarInfoBFF.Identity
         public async Task<Status> RegisterAsync(RegistrationModel model)
         {
             string url = string.Empty;
-            if (model.Role == UsersRole.Admin)
-            {
-                url = $"{SD.CarDetailsAPIBase}/UserAuthentication/Register";
-            }
-            else
-            {
-                url = $"{SD.CarDetailsUserAPIBase}/UserAuthentication/UserRegister";
-            }
+            url = $"{SD.CarDetailsAPIBase}/UserAuthentication/Register";
             var requestDTO = new RequestDTO
             {
                 ApiType = SD.ApiType.POST,
